@@ -1,7 +1,7 @@
 # Hi! It's Kiet Nguyen
 
 # 💫 About Me:
-Data Scientist & Economist passionate about leveraging ML/AI/Causal Inference to solve complex problems.<br>🎓 Dual degree in Data Science & Quantitative Economics @CWRU<br>🔍 Exploring the intersection of deep learning, finance, and social impact<br>🌱 Constantly learning about new AI/LLM architectures and applications<br>🌏 Bringing diverse perspectives through cultural exchange and economics<br>📈 Committed to building ethical, inclusive technology solutions to uplift LQBTQIA+ right 🏳️‍🌈.
+Data Scientist & Economist passionate about leveraging ML/AI/Causal Inference to solve complex problems.<br>🎓 Dual degree in Data Science & Quantitative Economics @CWRU<br>🔍 Exploring the intersection of deep learning, finance, and social impact<br>🌱 Constantly learning about new AI/LLM architectures and applications<br>🌏 Bringing diverse perspectives through cultural exchange and economics<br>📈 Committed to building ethical, inclusive technology solutions to uplift LGBTQIA+ right 🏳️‍🌈.
 
 
 ## 🌐 Socials:
